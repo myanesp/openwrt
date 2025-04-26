@@ -7,4 +7,5 @@ To use it, download it, change the variables to your own ones, and put in your s
 Then, if you want to do it automatically, just put in the Scheduled tasks with the frequence you like!
 
 For instance, the following example will execute the backup every day at 2 am.
+
 `0 2 * * * /path/to/script/backup-to-nextcloud.sh`
